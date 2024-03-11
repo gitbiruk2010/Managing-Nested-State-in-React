@@ -15,7 +15,7 @@ This project contains a `UserProfile` component that demonstrates managing and u
 
 To get this project running on your local machine, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/gitbiruk2010/Managing-Nested-State-in-React
 
 git clone 
 cd managing-nested-state
